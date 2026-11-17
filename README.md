@@ -1,7 +1,7 @@
 # Prediksi Apakah Pengunjung Toko Online Akan Membeli
 
 ## Latar belakang dan tujuan
-Sebagian orang yang berkunjung di toko onlie tidak akan belanja. data dataset kami yang berbelanja hanya sekitar 15,6%. ketika pemilik toko ingin memberikan promo terbatas pada orang orang tertentu yang memang ingin belanja saja dan tidak kehilangan pelanggan , maka toko bisa memperkirakan atau memprediksi, kira kira pelangganmana saja yang ingin membeli. Karena itu kami membangun model sederhana memprediksi pelanggan membeli atau tidak dengan melihat prilaku penggunjung tersebut.
+Sebagian orang yang berkunjung di toko onlie kemungkinan tidak akan belanja. data dataset kami yang berbelanja hanya sekitar 15,6%. ketika pemilik toko ingin memberikan promo terbatas pada orang orang tertentu yang memang ingin belanja saja dan tidak kehilangan pelanggan , maka toko bisa memperkirakan atau memprediksi, kira kira pelangganmana saja yang ingin membeli. Karena itu kami membangun model sederhana memprediksi pelanggan membeli atau tidak dengan melihat prilaku penggunjung tersebut.
 
 Tujuan kami: kamui membuat model yang bisa memprediksi: apakah dalam pengunjung akan membeli atau tidak dengan cara melihat data perilaknya. Kami membandingkan dua model lalu membandingkan Logistic Regression dan Random Forest. Kami juga ingin tahu apa saja yang palin berpengaruh dalam tebakan. Kami tidak mengatakan model ini sudah siap untuk diguakan di kehidupannyata dan ini sebagai melatihan dalam membuat model ML.
 
